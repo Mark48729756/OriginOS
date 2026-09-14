@@ -290,5 +290,3 @@ The panic screen covers all 32 standard x86 exception vectors (0–31), straight
 ## License
 
 This project is licensed under the **MIT License** (see [`LICENSE`](LICENSE)) — which, technically, permits commercial use, resale, and sublicensing like any standard MIT-licensed project.
-
-That said: **OriginOS is a solo hobby project**, built and shared so other people can learn from it, poke at the code, and help fix bugs — not so it can be repackaged and sold. If you use it personally, for learning, or to contribute fixes back, that's exactly what it's here for. If you're planning to use it commercially, please reach out first at **macospowerpoint@gmail.com** — using it commercially without doing so goes against the spirit this project was shared under, and the author reserves the right to pursue it seriously.
